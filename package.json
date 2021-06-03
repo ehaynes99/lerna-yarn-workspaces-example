@@ -1,0 +1,12 @@
+{
+  "name": "lerna-yarn-workspaces-example",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "./workspaces/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
