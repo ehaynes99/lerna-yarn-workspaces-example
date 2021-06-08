@@ -72,8 +72,6 @@ git remote add origin git@github.com:ehaynes99/lnl-lerna.git
 git push -u origin HEAD
 ```
 
-### Local npm registry
-You may have noticed the the `localhost` address for the registry above. 
 ---
 # Create a library package
 ```shell
