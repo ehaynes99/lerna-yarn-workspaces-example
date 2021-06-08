@@ -30,7 +30,7 @@ mkdir packages
   "private": true,
   "license": "UNLICENSED",
   "workspaces": [
-    "./packages/*"
+    "packages/*"
   ]
 }
 ```
