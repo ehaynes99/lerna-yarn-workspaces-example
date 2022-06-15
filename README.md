@@ -1,3 +1,5 @@
+NOTE: Archiving this, as I've found https://nx.dev/ to be a superior workflow, and `lerna`'s author recently transferred maintenance to the `nx` team.
+
 # Lerna & yarn workspaces
 An example project using yarn workspaces and lerna.
 
